@@ -36,4 +36,6 @@ public class EntryScreen extends Application{
         vBox.getChildren().addAll(amount, amountField, category, chooseCat, date, chooseDate, comment, commentField, submit, statistics);
 
     }
+
+
 }
